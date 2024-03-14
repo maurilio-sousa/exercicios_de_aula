@@ -1,9 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T01:10:31.472Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.4" etag="rtPDJQdbZyKeVDFdHgfP" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T01:46:34.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="GTnCkXiSIamZOSHCo3v_" version="24.0.4" type="github">
   <diagram name="Página-1" id="-G6KwaVzMuPpDwbzGJ1a">
-    <mxGraphModel>
+    <mxGraphModel dx="2261" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mK5b8Soz-Ho4xHBqHIYV-1" value="CLIENTE" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="80" width="160" height="150" as="geometry">
+            <mxRectangle x="-270" y="50" width="80" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mK5b8Soz-Ho4xHBqHIYV-2" value="&lt;div&gt;nome&lt;/div&gt;cpf&lt;div&gt;email&lt;/div&gt;&lt;div&gt;telefone&lt;/div&gt;&lt;div&gt;endereco&lt;/div&gt;&lt;div&gt;sexo&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="mK5b8Soz-Ho4xHBqHIYV-1">
+          <mxGeometry y="50" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mK5b8Soz-Ho4xHBqHIYV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="mK5b8Soz-Ho4xHBqHIYV-1" source="mK5b8Soz-Ho4xHBqHIYV-2" target="mK5b8Soz-Ho4xHBqHIYV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
